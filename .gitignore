@@ -1,0 +1,27 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local Logs & Env
+*.log
+.env
+.npm/
+
+# Antigravity / Agentic internal files
+.gemini/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+tmp/
+*.webp
+*.png
+click_feedback/
+/artifacts/
