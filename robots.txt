@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alae-ed.github.io/ali-ed-portfolio/sitemap.xml
