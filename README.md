@@ -31,7 +31,7 @@ Pour moi, le développement web ne se résume pas à aligner des lignes de code 
 - **Bilingue** : Bascule immédiate entre Français et Anglais.
 - **Design Moderne** : Utilisation de CSS pur avec des effets de néon et de transparence (Glassmorphism).
 - **Démos Interactives** : Présentation dynamique de mes projets.
-- **Optimisé Mobile** : Une navigation fluide على جميع الأجهزة.
+- **Optimisé Mobile** : Une navigation fluide sur tous les appareils.
 
 ---
 
