@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             projects_label: "// 04 — Works",
             projects_title: "Featured Projects",
             project_byhome_desc: "A Laravel-based platform connecting home cooks with clients. Includes features for booking, online payment, and rating systems.",
-            project_portfolio_desc: "An AI-powered web application that helps users generate and manage professional CVs dynamically with the assistance of artificial intelligence.",
+            project_portfolio_desc: "An AI-driven CV builder that transforms raw user notes into polished, professional content, enabling users to generate high-quality resumes simply by describing their experience in plain language.",
             project_clinic_desc: "A comprehensive management system for dental clinics, featuring appointment scheduling and patient record management.",
             btn_case_study: "Case Study",
             btn_demo: "Demo",
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             projects_label: "// 04 — Travaux",
             projects_title: "Projets Phares",
             project_byhome_desc: "Une plateforme basée sur Laravel connectant les cuisiniers à domicile avec les clients. Comprend des fonctionnalités de réservation, de paiement en ligne et de notation.",
-            project_portfolio_desc: "Une application web alimentée par l'IA qui aide les utilisateurs à générer et à gérer des CV professionnels de manière dynamique avec l'assistance de l'intelligence artificielle.",
+            project_portfolio_desc: "Un constructeur de CV piloté par l'IA qui transforme les notes brutes de l'utilisateur en un contenu professionnel et soigné, permettant de créer des CV de haute qualité.",
             project_clinic_desc: "Un système de gestion complet pour les cliniques dentaires, comprenant la prise de rendez-vous et la gestion des dossiers des patients.",
             btn_case_study: "Étude de Cas",
             btn_demo: "Démo",
@@ -435,7 +435,7 @@ document.addEventListener('DOMContentLoaded', () => {
             en: {
                 title: "AI-Powered CV Builder",
                 problem: "Creating ATS-friendly CVs is often complex for non-tech users who need professional content and layout quickly.",
-                solution: "Built a lightweight application that leverages AI to help users draft professional content and generate ATS-friendly CVs instantly.",
+                solution: "Built an intelligent interface that leverages AI models to rewrite raw user descriptions into professional bullet points and summaries, ensuring high-quality output regardless of the initial input style.",
                 tech: ["AI (Gemini/Groq)", "JavaScript", "HTML5", "CSS3"]
             },
             fr: {
