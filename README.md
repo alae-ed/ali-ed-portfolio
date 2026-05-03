@@ -1,6 +1,7 @@
 # Ali Eddnoub — Full-Stack Developer Portfolio
 
 Hi there! I'm **Ali Eddnoub**, a fresh graduate and a tech enthusiast. This repository contains the source code for my professional portfolio website. I built this to showcase my journey as a developer and to share the projects I've been working on.
+
 I truly believe that building things for the web is about more than just code—it's about solving problems and creating something that looks and feels great.
 
 ---
@@ -30,7 +31,7 @@ Pour moi, le développement web ne se résume pas à aligner des lignes de code 
 - **Bilingue** : Bascule immédiate entre Français et Anglais.
 - **Design Moderne** : Utilisation de CSS pur avec des effets de néon et de transparence (Glassmorphism).
 - **Démos Interactives** : Présentation dynamique de mes projets.
-- **Optimisé Mobile** : Une navigation fluide sur tous les supports.
+- **Optimisé Mobile** : Une navigation fluide على جميع الأجهزة.
 
 ---
 
